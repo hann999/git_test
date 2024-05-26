@@ -1,0 +1,10 @@
+batch_norm.py 将原始的测试数据归一化成TTR热反射模型里输入的数据
+data2heatmap.py 将预测结果可视化为热图
+log_norm.py 将TTR热反射模型里输入的数据取对数得到新的数据
+main_train.py 主函数，可在此调整超参数
+model.py 模型结构
+pred.py 用训练好的模型预测未知参数
+read_csv.py 读取产生数据集的csv表格
+read_mat.py 读取数据集
+train.py 训练主程序
+train_test_xy.py 产生并划分数据集
