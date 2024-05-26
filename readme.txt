@@ -8,3 +8,5 @@ read_csv.py 读取产生数据集的csv表格
 read_mat.py 读取数据集
 train.py 训练主程序
 train_test_xy.py 产生并划分数据集
+
+傻逼zjw
